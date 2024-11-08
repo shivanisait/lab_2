@@ -1,0 +1,95 @@
+* {
+    box-sizing: border-box;
+}
+
+.header {
+    padding: 60px;
+    background-color: #120323;
+    color: #97bf04;
+    justify-items: center;
+
+}
+
+#image {
+
+    border: 5px solid black;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 10px 10px 10px 10px black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:2%;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2%;
+  
+
+}
+
+#BigHornSheep {
+    background-color: #d9043d;
+    color: black;
+    padding: 15px 32px;
+    font-weight: bold;
+    border-radius: 10px 10px 10px 10px;
+}
+
+#BlackBear {
+    background-color: #d9043d;
+    color: black;
+    padding: 15px 32px;
+    font-weight: bold;
+    border-radius: 10px 10px 10px 10px;
+}
+
+#Moose {
+    background-color: #d9043d;
+    color: black;
+    padding: 15px 32px;
+    font-weight: bold;
+    border-radius: 10px 10px 10px 10px;
+}
+#Wolf {
+    background-color: #d9043d;
+    color: black;
+    padding: 15px 32px;
+    font-weight: bold;
+    border-radius: 10px 10px 10px 10px;
+}
+#Elk {
+    background-color: #d9043d;
+    color: black;
+    padding: 15px 32px;
+    font-weight: bold;
+    border-radius: 10px 10px 10px 10px;
+}
+#BigHornSheep:hover {
+
+	background-color: #97bf04;
+
+}
+
+#BlackBear:hover {
+
+	background-color: #97bf04;
+
+}
+#Moose:hover {
+
+	background-color: #97bf04;
+
+}
+#Wolf:hover {
+
+	background-color: #97bf04;
+
+}
+#Elk:hover {
+
+	background-color: #97bf04;
+
+}
